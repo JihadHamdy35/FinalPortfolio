@@ -96,7 +96,7 @@ html{
 body{
     width: 100%;
     height: fit-content;
-    background-color: yellow;
+    background-color: var (--bgColor);
     font-family: Arial, Helvetica, sans-serif;
 }
 body *{
